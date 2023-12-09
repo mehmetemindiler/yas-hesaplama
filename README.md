@@ -1,1 +1,3 @@
 # yas-hesaplama
+
+![](yas.gif)
